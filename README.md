@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering undergraduate student </h3>
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **gimhanisandareka123@gmail.com**
 
