@@ -3,10 +3,10 @@
   Always learning, always creating!
 </h3>
 <h1></h1>
-
+<br>
 - 🌱 I’m currently learning **Next js**
 
-- 📫 How to reach me **gimhanisandareka123@gmail.com**
+- 📫 How to reach me **gimhanisandareka123@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +14,7 @@
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="gimhani-sandareka" height="30" width="40" /></a>
 </p>
-
+<h1></h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
