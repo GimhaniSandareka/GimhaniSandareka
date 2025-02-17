@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gimhani Sandareka</h1>
-<img src="https://pngtree.com/freepng/say-hi-cute-bunny-at-window-stickers_6866690.html"/>
 <h3 align="center">A passionate Software Engineering undergraduate student </h3>
 
 
