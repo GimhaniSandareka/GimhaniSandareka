@@ -4,7 +4,7 @@
 </h3>
 <h1></h1>
 <br>
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning <strong>Next js</strong>
 
 - 📫 How to reach me **gimhanisandareka123@gmail.com** 
 
