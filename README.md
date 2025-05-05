@@ -66,7 +66,7 @@ alt="gimhani-sandareka" height="30" width="40" /></a>
    </p>
    <br/>  
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=GimhaniSandareka&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=GimhaniSandareka&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true" align="center" /></div> 
 <br/>  
 
 <br/>  
